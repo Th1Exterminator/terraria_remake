@@ -1,0 +1,3 @@
+/home/Th1Exterminator/Documents/c_c++/terraria_remake/build/CMakeFiles/Terraria_remake.dir
+/home/Th1Exterminator/Documents/c_c++/terraria_remake/build/CMakeFiles/edit_cache.dir
+/home/Th1Exterminator/Documents/c_c++/terraria_remake/build/CMakeFiles/rebuild_cache.dir
